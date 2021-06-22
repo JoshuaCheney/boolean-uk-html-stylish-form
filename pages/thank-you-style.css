@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+    background: linear-gradient(90deg, rgba(89, 123, 217) 0%, #af4adf 100%);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 30rem;
+}
